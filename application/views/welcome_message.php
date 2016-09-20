@@ -108,3 +108,4 @@
 </script>
 </body>
 </html>
+<!-- application/views/welcome_message.php -->
